@@ -1,0 +1,1 @@
+{"name":"Local: dsa","url":"c:\\C++.VS\\c++_nangcao\\dsa.cpp","tests":[{"id":1765964638301,"input":"1\n\n3\n\n3 1 2\n\n1 1 2\n\n1 4 2\n","output":"\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C++.VS\\c++_nangcao\\dsa.cpp","group":"local","local":true}

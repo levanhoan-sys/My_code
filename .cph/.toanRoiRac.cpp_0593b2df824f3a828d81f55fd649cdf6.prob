@@ -1,0 +1,1 @@
+{"name":"Local: toanRoiRac","url":"c:\\C++.VS\\c++_nangcao\\toanRoiRac.cpp","tests":[{"id":1773306396657,"input":"1\n\n4 3\n\n1 2\n\n1 4\n\n2 3","output":""},{"id":1773306698713,"input":"2\n\n4 3\n\n1 2\n\n1 4\n\n2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C++.VS\\c++_nangcao\\toanRoiRac.cpp","group":"local","local":true}

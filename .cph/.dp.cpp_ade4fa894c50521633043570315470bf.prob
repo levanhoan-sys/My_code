@@ -1,0 +1,1 @@
+{"name":"Local: dp","url":"c:\\C++.VS\\c++_nangcao\\dp.cpp","tests":[{"id":1773127086414,"input":"1\n3 2\n2 1 6\n1 5","output":""},{"id":1773149767322,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C++.VS\\c++_nangcao\\dp.cpp","group":"local","local":true}
